@@ -2,8 +2,7 @@
 
 forked from https://atapi.codeplex.com/
 
-ATAPI 1.4.0
-
+Version 1.4.0
 
 Project Description
 Managed .NET library for interacting with the Microsoft Telephony API (TAPI) 2.x. This library is for creating clients that consume telephony services on Windows XP or better.
